@@ -1,4 +1,4 @@
-#!/bin/bash
+##!/usr/bin/env bash
 # Author: Javier Orfo
 # Last Edited: 06 Jan 2023
 
