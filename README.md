@@ -10,6 +10,3 @@
 - [ ] Mercado Pago
 - [ ] Crypto
 - [ ] ttf-ubuntumono-nerd
-
-## Support
-- [Paypal](https://www.paypal.com/donate/?hosted_button_id=DT5ZGHRJKYJ8C)
